@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: e61b4fb6-3894-70b5-cc18-0f4fb4de7d09
 ---
@@ -209,7 +212,7 @@ R: Problems: \[\*\] 6.3(a), 6.1 (show that the ring _A_ of problem 6.3(a) works)
 10
 {{< tdclose >}}
 {{< tdopen >}}
-Ideals in _A_ and _S_\-1_A_, localization of modules
+Ideals in _A_ and _S_{{< sup "\\-1" >}}_A_, localization of modules
 {{< tdclose >}}
 {{< tdopen >}}
 

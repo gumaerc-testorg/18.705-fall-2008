@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 39a999b1-96db-dee4-931a-158acc1de3a5
 ---
@@ -175,7 +178,7 @@ R: Chapters 6.2-6.3
 10
 {{< tdclose >}}
 {{< tdopen >}}
-Ideals in _A_ and _S_\-1_A_, localization of modules
+Ideals in _A_ and _S_{{< sup "\\-1" >}}_A_, localization of modules
 {{< tdclose >}}
 {{< tdopen >}}
 R: Chapters 6.4-6.8
