@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 39a999b1-96db-dee4-931a-158acc1de3a5
 resourcetype: Document
 title: Refined Noether Normalization Lemma
 uid: 87fd77a0-eeca-6d6b-aebb-d028751a85fa
