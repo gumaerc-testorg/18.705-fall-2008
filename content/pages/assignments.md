@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides information on the course assignments.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -21,7 +22,7 @@ AM: Atiyah, Michael, and Ian Macdonald. _Introduction to Commutative Algebra_. R
 
 E: Eisenbud, David. _Commutative Algebra: With a View Toward Algebraic Geometry_. New York, NY: Springer-Verlag, 1999. ISBN: 9780387942698.
 
-SLK: Some of the problems are not taken from the course textbooks but can be found in the assignments handout. ([PDF]({{< baseurl >}}/resources/handoutprob))
+SLK: Some of the problems are not taken from the course textbooks but can be found in the assignments handout. ({{% resource_link 90050ff8-c2de-ce1c-2aec-cc250df96397 "PDF" %}})
 
 The \[\*\] that appears before some problems indicates that the problem is to be presented in class.
 
@@ -212,7 +213,7 @@ R: Problems: \[\*\] 6.3(a), 6.1 (show that the ring _A_ of problem 6.3(a) works)
 10
 {{< tdclose >}}
 {{< tdopen >}}
-Ideals in _A_ and _S_{{< sup "\\-1" >}}_A_, localization of modules
+Ideals in _A_ and _S_{{< sup "\-1" >}}_A_, localization of modules
 {{< tdclose >}}
 {{< tdopen >}}
 
