@@ -6,6 +6,7 @@ file: /courses/18-705-commutative-algebra-fall-2008/87fd77a0eeca6d6baebbd028751a
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Refined Noether Normalization Lemma
 uid: 87fd77a0-eeca-6d6b-aebb-d028751a85fa
 ---
 Handout providing proof of the refined version of the Noether normalization lemma.
-
