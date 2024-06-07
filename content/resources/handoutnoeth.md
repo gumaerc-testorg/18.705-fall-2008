@@ -3,6 +3,7 @@ content_type: resource
 description: Handout providing proof of the refined version of the Noether normalization
   lemma.
 file: /courses/18-705-commutative-algebra-fall-2008/87fd77a0eeca6d6baebbd028751a85fa_handoutnoeth.pdf
+file_size: 150375
 file_type: application/pdf
 learning_resource_types:
 - Readings
